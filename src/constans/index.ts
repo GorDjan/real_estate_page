@@ -137,7 +137,7 @@ export const TESTIMONIALS = [
     name: "John Smith",
     instagram: "@john.smith",
     feedback:
-      "I was impressed by their professionalism and dedication. Highly recommend their services! I'm so grateful for their expertise.",
+      "I was impressed by their professionalism and dedication. Highly recommend their services!",
     city_country: "London, UK",
     image: "/profile-pictures/user2.jpg",
   },
